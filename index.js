@@ -1,6 +1,6 @@
-import { EventHandler } from "./EventHandler.js";
-import { CommandHandler } from "./CommandHandler.js";
-import { Server } from "./Server.js";
+import { EventHandler } from "./core/EventHandler.js";
+import { CommandHandler } from "./core/CommandHandler.js";
+import { Server } from "./core/Server.js";
 
 const eventHandler = new EventHandler().commandHandler();
 
