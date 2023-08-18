@@ -1,4 +1,4 @@
-# Simmple json server
+# Simple json server
 
 
 ### baseado em eventos, comandos
